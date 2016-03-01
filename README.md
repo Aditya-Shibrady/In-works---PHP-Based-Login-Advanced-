@@ -1,7 +1,8 @@
 PHP-Login
 =========
 
-Under construction!! <Work Not complete>
+Under construction!! Work Not complete!!
+<br><br><br>
 
 A simple, secure login and signup system with PHP, MySQL and jQuery (AJAX) using Bootstrap 3 for the form design as well as PHP-Mailer for user account verification and confirmation
 
